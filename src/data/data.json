@@ -1,0 +1,18 @@
+{
+  "title": "AlexeyCorr",
+  "description": "Hello, it`s my Personal Page.",
+  "domain": "https://alexeycorr.github.io/",
+  "authors": [
+    "Alexey Koryakin"
+  ],
+  "type": "portfolio",
+  "category": "",
+  "subcategory": "",
+  "explicit": false,
+  "language": "en",
+  "owner": {
+    "name": "AlexeyCorr",
+    "email": "alexeycorr@gmail.com"
+  },
+  "copyright": "CC BY-NC-ND 4.0"
+}
